@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="500" height="500" rx="30" fill="#FFFFFF"/>
+  <rect x="15" y="15" width="470" height="470" rx="20" fill="none" stroke="#15803D" stroke-width="4" stroke-dasharray="12,6"/>
+  <rect x="25" y="25" width="450" height="450" rx="15" fill="#F0FDF4" stroke="#166534" stroke-width="2"/>
+  
+  <path d="M250 60 L380 110 V230 C380 320 250 400 250 400 C250 400 120 320 120 230 V110 Z" fill="#166534"/>
+  <path d="M250 75 L365 120 V225 C365 305 250 380 250 380 C250 380 135 305 135 225 V120 Z" fill="#22C55E"/>
+  
+  <!-- FSSAI Text & Checkmark -->
+  <path d="M210 220 L240 250 L300 180" fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="250" y="320" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF" text-anchor="middle">fssai</text>
+  
+  <text x="250" y="430" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#166534" text-anchor="middle">FOOD SAFETY CERTIFIED</text>
+  <text x="250" y="455" font-family="Arial, sans-serif" font-size="14" fill="#15803D" text-anchor="middle">Govt. of India • Lic No: 12123999000124</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="500" height="500" rx="30" fill="#FFFFFF"/>
+  <rect x="15" y="15" width="470" height="470" rx="20" fill="none" stroke="#B45309" stroke-width="4"/>
+  <rect x="25" y="25" width="450" height="450" rx="15" fill="#FFFBEB" stroke="#D97706" stroke-width="2"/>
+  
+  <!-- Gold Shield -->
+  <path d="M250 70 L370 120 V240 C370 330 250 400 250 400 C250 400 130 330 130 240 V120 Z" fill="#D97706"/>
+  <path d="M250 85 L355 130 V235 C355 315 250 380 250 380 C250 380 145 315 145 235 V130 Z" fill="#F59E0B"/>
+  
+  <!-- Star & Crown -->
+  <polygon points="250,140 263,180 305,180 271,205 284,245 250,220 216,245 229,205 195,180 237,180" fill="#FFFFFF"/>
+  
+  <text x="250" y="300" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">APPROVED</text>
+  
+  <text x="250" y="425" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#92400E" text-anchor="middle">PUNJAB TOURISM</text>
+  <text x="250" y="450" font-family="Arial, sans-serif" font-size="14" fill="#B45309" text-anchor="middle">Govt. Registered Accommodation</text>
+</svg>

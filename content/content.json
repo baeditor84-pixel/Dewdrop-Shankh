@@ -1,0 +1,271 @@
+{
+  "hotelInfo": {
+    "name": "Dewdrop Shankh",
+    "brand": "Dewdrop Hotels",
+    "tagline": "Best Budget Luxury Property of Amritsar",
+    "taglineSub": "Luxury well-furnished rooms available in all categories for your comfortable stay.",
+    "logo": "/images/imgi_1_Dewdrop_Hotel_logo.jpg",
+    "address": "Opp. Golden Temple Parking Flyover, Ram Talai Chownk, G.T Road, Amritsar, Punjab, India",
+    "landmark": "Opp HP Petrol Pump",
+    "phonePrimary": "+91 9417127963",
+    "phoneSecondary": "+91 9877186350",
+    "email": "gm.shankh@dewdrophotels.co.in",
+    "whatsapp": "919417127963",
+    "googleMapsUrl": "https://maps.google.com/?q=Ram+Talai+Chownk+GT+Road+Amritsar",
+    "socialLinks": {
+      "facebook": "https://facebook.com/dewdrophotels",
+      "instagram": "https://instagram.com/dewdrophotels"
+    },
+    "checkInTime": "12:00 PM",
+    "checkOutTime": "11:00 AM"
+  },
+  "hero": {
+    "title": "Experience Refined Hospitality in Amritsar",
+    "subtitle": "Modern comfort, warm Punjabi hospitality, and prime location right near the Golden Temple Parking Flyover.",
+    "heroImage": "/images/imgi_4_DSC09497-scaled.jpg",
+    "ctaText": "Book Your Stay",
+    "ctaLink": "https://wa.me/919417127963?text=Hello%20Dewdrop%20Shankh,%20I%20would%20like%20to%20enquire%20about%20room%20availability."
+  },
+  "about": {
+    "title": "Welcome to Dewdrop Shankh",
+    "subtitle": "A Newly Constructed Haven of Luxury & Peace",
+    "description": "Located strategically near Ram Talai Chownk on G.T. Road, Dewdrop Shankh offers state-of-the-art rooms, elegant dining, and world-class amenities for travelers visiting the holy city of Amritsar. Whether you are on a spiritual pilgrimage to the Golden Temple or traveling on business, our newly constructed property ensures an unforgettable stay with unmatched warmth and care.",
+    "highlights": [
+      "Prime location near Golden Temple Parking Flyover",
+      "Spacious parking for private vehicles & buses",
+      "24/7 dedicated room service & concierge",
+      "Special corporate & B2B enquiry assistance"
+    ],
+    "image": "/images/imgi_120_rec-1024x683.jpg"
+  },
+  "rooms": [
+    {
+      "id": "family-quad",
+      "title": "Family Room – Quad Occupancy",
+      "tagline": "Ideal for families & travel groups needing extra space",
+      "description": "Spacious and thoughtfully designed room featuring double beds, ergonomic seating, and high-speed Wi-Fi, perfect for families visiting Amritsar together.",
+      "price": "Enquire for Best Rates",
+      "size": "350 sq.ft",
+      "occupancy": "4 Guests (2 Adults + 2 Kids or 4 Adults)",
+      "bedType": "2 Queen Beds",
+      "images": [
+        "/images/imgi_30_DSC09392-2-2048x1365.jpg",
+        "/images/imgi_31_DSC09456-2-2048x1365.jpg",
+        "/images/imgi_36_2-bathroom-2048x1707.jpg"
+      ],
+      "amenities": ["Free High-Speed Wi-Fi", "Air Conditioning", "Flat Screen TV", "24/7 Hot Water", "Electric Kettle", "Room Service", "Daily Housekeeping"]
+    },
+    {
+      "id": "executive-suite",
+      "title": "Suit Room / Executive Suite",
+      "tagline": "Unrivaled luxury and panoramic city views",
+      "description": "Our signature luxury suite features a separate living area, plush bedding, premium bath amenities, and elegant decor for an elevated hotel experience.",
+      "price": "Enquire for Best Rates",
+      "size": "420 sq.ft",
+      "occupancy": "2 - 3 Guests",
+      "bedType": "1 King Bed + Lounge Seating",
+      "images": [
+        "/images/imgi_32_DSC09497-2048x1365.jpg",
+        "/images/imgi_33_DSC09450-2-2048x1365.jpg",
+        "/images/imgi_37_Copy-of-H44A2063-2048x1365.jpg",
+        "/images/imgi_78_DSC09453-2-1365x2048.jpg"
+      ],
+      "amenities": ["Free High-Speed Wi-Fi", "Work Desk & Chair", "Mini Refrigerator", "Air Conditioning", "Premium Bathrobe & Towels", "24/7 Room Service", "Tea/Coffee Maker"]
+    },
+    {
+      "id": "twin-deluxe",
+      "title": "Twin Bed Deluxe Room",
+      "tagline": "Flexible comfort for friends & business travelers",
+      "description": "Comfortable twin-bedded room designed with crisp linens, warm ambient lighting, and modern work amenities.",
+      "price": "Enquire for Best Rates",
+      "size": "280 sq.ft",
+      "occupancy": "2 Guests",
+      "bedType": "2 Twin Single Beds",
+      "images": [
+        "/images/imgi_34_DSC09408-2-2048x1365.jpg",
+        "/images/imgi_35_DSC09481-2048x1365.jpg",
+        "/images/imgi_115_H44A2153-1024x683.jpg"
+      ],
+      "amenities": ["Free High-Speed Wi-Fi", "Air Conditioning", "Flat Screen TV", "Attached Modern Bath", "Desk Space", "Room Service"]
+    },
+    {
+      "id": "classic-deluxe",
+      "title": "Classic Deluxe King Room",
+      "tagline": "Warm, restful ambience for couples & solo guests",
+      "description": "Well-appointed classic room offering a cozy king-size bed, elegant furnishings, and all essential modern conveniences.",
+      "price": "Enquire for Best Rates",
+      "size": "260 sq.ft",
+      "occupancy": "2 Guests",
+      "bedType": "1 King Bed",
+      "images": [
+        "/images/imgi_25_DSC01615-scaled.jpg",
+        "/images/imgi_27_DSC01483-scaled.jpg",
+        "/images/imgi_28_DSC01451-scaled.jpg",
+        "/images/imgi_100_3-bathroom-300x200.jpg"
+      ],
+      "amenities": ["Free High-Speed Wi-Fi", "Air Conditioning", "Television", "Hot Shower", "Room Service"]
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Wifi",
+      "title": "High Speed Wi-Fi",
+      "description": "Complimentary ultra-fast Wi-Fi available across all rooms and public spaces."
+    },
+    {
+      "icon": "Car",
+      "title": "Spacious Parking",
+      "description": "Secure, ample parking facilities for personal vehicles and tour buses."
+    },
+    {
+      "icon": "Utensils",
+      "title": "In-House Dining",
+      "description": "Delicious freshly prepared Indian culinary delights and breakfast service."
+    },
+    {
+      "icon": "Clock",
+      "title": "24/7 Room Service",
+      "description": "Round-the-clock room service and dedicated front desk assistance."
+    },
+    {
+      "icon": "Zap",
+      "title": "100% Power Backup",
+      "description": "Uninterrupted power supply with heavy-duty backup generators."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "CCTV & Safety",
+      "description": "24-hour security surveillance and verified staff for complete peace of mind."
+    },
+    {
+      "icon": "Wind",
+      "title": "Climate Control AC",
+      "description": "Individual temperature control in all rooms for optimal comfort."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Daily Housekeeping",
+      "description": "Pristine sanitation, daily fresh linens, and sanitised room turnovers."
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-fssai",
+      "title": "FSSAI Food Safety License",
+      "authority": "Food Safety and Standards Authority of India",
+      "description": "Certified for maintaining strict food hygiene, kitchen cleanliness, and quality dining standards.",
+      "image": "/images/cert_fssai_badge.svg",
+      "fullImage": "/images/cert_fssai_badge.svg"
+    },
+    {
+      "id": "cert-gst",
+      "title": "GST Registration Certificate",
+      "authority": "Government of India - Goods & Services Tax Department",
+      "description": "Official tax registration compliance for guest billing and B2B corporate billing.",
+      "image": "/images/cert_gst_badge.svg",
+      "fullImage": "/images/cert_gst_badge.svg"
+    },
+    {
+      "id": "cert-tourism",
+      "title": "Punjab Tourism License",
+      "authority": "Department of Tourism & Cultural Affairs, Govt. of Punjab",
+      "description": "Approved government tourism accommodation operator badge.",
+      "image": "/images/cert_tourism_badge.svg",
+      "fullImage": "/images/cert_tourism_badge.svg"
+    },
+    {
+      "id": "cert-tripadvisor",
+      "title": "TripAdvisor Excellence Recognition",
+      "authority": "MakeMyTrip / TripAdvisor",
+      "description": "Recognized among top budget luxury hospitality properties in Amritsar.",
+      "image": "/images/imgi_124_IMG-4691-225x300.jpg",
+      "fullImage": "/images/imgi_124_IMG-4691-225x300.jpg"
+    }
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "Sri Harmandir Sahib (Golden Temple)",
+      "distance": "1.8 km",
+      "time": "5 mins drive",
+      "description": "The holiest Gurdwara of Sikhism, famous for its inspiring golden architecture, serene holy sarovar, and round-the-clock Langar.",
+      "image": "/images/imgi_36_place01.jpg"
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "distance": "1.6 km",
+      "time": "5 mins drive",
+      "description": "Historic memorial park honoring national heroes, featuring the eternal flame and preserved historic bullet-marked walls.",
+      "image": "/images/imgi_6_places-02-qcnnnbbznleslp9yk9ycyfo1e6v3r0j461gdywnb5m.jpg"
+    },
+    {
+      "name": "Partition Museum",
+      "distance": "1.5 km",
+      "time": "4 mins drive",
+      "description": "The world's first museum dedicated to the stories, artifacts, and memories of the 1947 partition of India.",
+      "image": "/images/imgi_13_place06.jpg"
+    },
+    {
+      "name": "Gobindgarh Fort",
+      "distance": "3.5 km",
+      "time": "10 mins drive",
+      "description": "Historic 18th-century military fort featuring 7D sound & light shows, folk dance performances, and Punjabi heritage exhibitions.",
+      "image": "/images/imgi_14_place07.jpg"
+    },
+    {
+      "name": "Durgiana Temple",
+      "distance": "3.0 km",
+      "time": "8 mins drive",
+      "description": "Beautiful Hindu temple dedicated to Goddess Durga, surrounded by a sacred water body and grand marble architecture.",
+      "image": "/images/imgi_15_place08.jpg"
+    },
+    {
+      "name": "Wagah Border Ceremony",
+      "distance": "28 km",
+      "time": "40 mins drive",
+      "description": "World-renowned daily military flag-lowering ceremony conducted jointly by Indian BSF and Pakistan Rangers.",
+      "image": "/images/imgi_17_place10.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Gurpreet Singh",
+      "location": "Chandigarh",
+      "comment": "Very clean hotel right on G.T. Road. Easy parking for our SUV and very short drive to Golden Temple. Staff was extremely helpful!",
+      "rating": 5
+    },
+    {
+      "name": "Ananya Sharma",
+      "location": "Delhi",
+      "comment": "Dewdrop Shankh is brand new and the family room was spacious enough for 4 of us. Hot water 24 hours and excellent room service.",
+      "rating": 5
+    },
+    {
+      "name": "Rajesh Malhotra",
+      "location": "Ludhiana",
+      "comment": "Stayed during a corporate trip to Amritsar. Smooth check-in, GST invoice provided promptly, and clean premium bathrooms.",
+      "rating": 5
+    }
+  ],
+  "policies": [
+    {
+      "title": "Check-in & Check-out",
+      "content": "Standard Check-in time is 12:00 PM and Check-out time is 11:00 AM. Early check-in or late check-out is subject to room availability and prior notification."
+    },
+    {
+      "title": "ID Requirement",
+      "content": "All guests (Indian & Foreign nationals) must present a valid government-issued photo ID with address proof (Aadhaar Card, Passport, Voter ID, Driving License) at check-in. PAN cards are not accepted."
+    },
+    {
+      "title": "Cancellation Policy",
+      "content": "Free cancellation up to 48 hours prior to check-in date. Cancellations made within 48 hours will incur a 1-night room charge."
+    },
+    {
+      "title": "Child & Extra Bed Policy",
+      "content": "Children up to 5 years stay free of charge when using existing bedding. Extra bed/mattress can be arranged upon request for an additional fee."
+    },
+    {
+      "title": "Pet Policy",
+      "content": "Pets are not allowed on the hotel premises to ensure comfort and hygiene for all guests."
+    }
+  ]
+}
